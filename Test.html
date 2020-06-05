@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<body bgcolor = "#09F3EA">
+  <h1 style = "text-align : center; color : #F35309">TERA COVID WALA ASSISTANT</h1>
+  <script>
+    window.watsonAssistantChatOptions = {
+        integrationID: "b86337ed-1c2b-4f9d-b42c-70c9f92ec19d", // The ID of this integration.
+        region: "eu-gb", // The region your integration is hosted in.
+        serviceInstanceID: "fed9ce16-66cb-4f94-9c27-84ca8ebb2465", // The ID of your service instance.
+        onLoad: function(instance) { instance.render(); }
+      };
+    setTimeout(function(){
+      const t=document.createElement('script');
+      t.src="https://web-chat.global.assistant.watson.appdomain.cloud/loadWatsonAssistantChat.js";
+      document.head.appendChild(t);
+    });
+  </script>
+</body>
+</html>

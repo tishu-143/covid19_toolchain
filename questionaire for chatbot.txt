@@ -1,0 +1,302 @@
+1. How frequently do you moderately exercise?
+	a. Daily or more often
+	b. Once or twice a week
+	c. Once or twice a month
+	d. Seldom
+2. How often do you get a full, restful night of sleep?
+	a. Most every night
+	b. Four to five times a each week
+	c. Two to three times each week
+	d. Seldom
+3. To what extent is your energy sufficient for our work and daily activities?
+	a. to a very great extent
+	b. to some extent
+	c. to little extent
+	d. to very little extent
+4. How closely does your weight approach the ideal level?
+	a. My weight is at the ideal level
+	b. My weight is close to the idea level
+	c. My weight is not close to the ideal level
+	d. I am dangerously overweight (underweight)
+5. To what extent do you eat a nutritious diet?
+	a. to a very great extent
+	b. to some extent
+	c. to little extent
+	d. to very little extent
+6. Which of the following best describes your use of tobacco?
+	a. In no period of my life have I had the habit of smoking or chewing tobacco.
+	b. Early in my life for a short period I smoked or chewed tobacco
+	c. I stopped smoking or chewing tobacco over the past two years
+	d. I currently smoke or chew tobacco
+7. Which of the following best describes your use of alcohol?
+	a. I do not abuse alcohol, and never have. (Abuse is defined as drinking more than two
+drinks within a short period such as an evening.)
+	b. Very occasionally I abuse alcohol.
+	c. I have a history of abusing alcohol, but am not presently abusing it.
+	d. I am presently abusing alcohol.
+8. To what extent do you believe that you have a history of coping well with highly stressful
+situations?
+	a. to a very great extent
+	b. to a great extent
+	c. to a little extent
+	d. to a very little extent
+9. How confident are you of being able to control your emotions in stressful situations?
+	a. I never let my emotions run away me.
+	b. I seldom let my emotions run away with me.
+	c. I sometimes let my emotions run away with me.
+	d. I often let my emotions run away with me.
+10. When things are not going well, how likely are you to view the situation as being temporary
+rather than permanent?
+	a. very likely
+	b. likely
+	c. unlikely
+	d. very unlikely
+11. When something bad happens to you, how likely are you to exaggerate its importance?
+	a. very unlikely
+	b. unlikely
+	c. likely
+	d. very likely
+12. When stressed by a complex situation, how likely are you to focus your attention on those
+aspects of the situation that you can manage?
+	a. very likely
+	b. likely
+	c. unlikely
+	d. very unlikely
+13. When highly stressed, how capable are you of changing your thinking to calm down?
+	a. very capable
+	b. capable
+	c. incapable
+	d. very incapable
+14. When confronted with a stressful situation, how likely are you to wait passively for events to
+develop rather than to take charge?
+	a. very unlikely
+	b. unlikely
+	c. likely
+	d. very likely
+15. Which of the following courses of action are you most likely to take when you have become
+thoroughly frustrated?
+	a. identify an alternate goal and pursue it
+	b. pursue a relaxing activity
+	c. withdraw and fell sorry for yourself
+	d. vent your aggression on someone weaker than you
+16. If you had worn an article of clothing one day and then found it to be flawed, how likely would
+you be to return it and ask for a refund?
+	a. very likely
+	b. likely
+	c. unlikely
+	d. very unlikely
+17. When an unexpected, negative event happens to you, how likely are you to actively seek
+information about the event and how to cope with it?
+	a. very likely
+	b. likely
+	c. unlikely
+	d. very unlikely
+18. How much decision-making power so you have in your family?
+	a. more power than any other member of my family
+	b. as much power as any other member of my family
+	c. less power than most members of my family
+	d. less power than any other member of my family
+19. How much decision-making power do you have in your working environment? (if not working
+outside the home at present, use your last job as a basis for answering this question.)
+	a. more power than most members of my work team
+	b. as much power as any other member of my work team
+	c. less power than most members of my work team
+	d. less power than any other member of my work team
+20. To what extent do you believe that events in your life are merely the result of luck, fate, or
+chance?
+	a. to very little extent
+	b. to little extent
+	c. to some extent
+	d. to a great extent
+21. What is your best guess as to the extent and quality of contact you had with your parent(s)
+shortly after birth?
+	a. was given an above average amount of contact by happy parent(s)
+	b. was given an average amount of contact by happy parent(s)
+	c. was given an average amount of contact by unhappy (perhaps angry) parent(s)
+	d. was given a below average amount of contact by unhappy (perhaps angry) parent(s)
+22. During your early childhood, to what extent was your mother both calm and generally
+permissive?
+	a. to a very great extent
+	b. to some extent
+	c. to little extent
+	d. to very little extent
+23. How easily do you make friends in a strange situation?
+	a. very easily
+	b. easily
+	c. uneasily
+	d. very uneasily
+24. When highly stressed, how likely are you to ask friends or relatives for help?
+	a. very likely
+	b. likely
+	c. unlikely
+	d. very unlikely
+25. In comparison with other people, how likely are you to see others as threatening,
+uncooperative, or exploitative?
+	a. highly unlikely
+	b. unlikely
+	c. likely
+	d. highly likely
+26. How often are you confused about the intentions of others toward you?
+	a. very infrequently
+	b. infrequently
+	c. frequently
+	d. very frequently
+27. To what extent are you aware of practical, healthy ways of relaxing?
+	a. to a very great extent
+	b. to some extent
+	c. to little extent
+	d. to very little extent
+28. How frequently do you pursue some highly relaxing practice?
+	a. daily or more often
+	b. once or twice a week
+	c. once or twice a month
+	d. seldom
+29. How often do you engage in a spiritual practice such as prayer, mediation, or inspirational
+reading to enrich your interior life?
+	a. daily or more often
+	b. once or twice a week
+	c. once or twice a month
+	d. seldom
+30. How connected do you feel to your conception of a higher power or to a worthy cause?
+	a. to a very great extent
+	b. to some extent
+	c. to little extent
+	d. to very little extent
+31. To what extent do you believe your life has purpose?
+	a. to a very great extent
+	b. to some extent
+	c. to little extent
+	d. to very little extent
+32. How much contact do you have with what you would consider a spiritual community?
+	a. very much
+	b. much
+	c. very little
+	d. none
+33.I found myself getting upset by quite trivial things.
+	a. Did not apply to me at all
+	b. Applied to me to some degree, or some of the time
+	c. Applied to me to a considerable degree, or a good part of time
+	d. Applied to me very much, or most of the time
+34.I was aware of dryness of my mouth.
+	a. Did not apply to me at all
+	b. Applied to me to some degree, or some of the time
+	c. Applied to me to a considerable degree, or a good part of time
+	d. Applied to me very much, or most of the time
+35.I experienced breathing difficulty (e.g., excessively rapid breathing).
+	a. Did not apply to me at all
+	b. Applied to me to some degree, or some of the time
+	c. Applied to me to a considerable degree, or a good part of time
+	d. Applied to me very much, or most of the time
+36.I tended to overreact to situations.
+	a. Did not apply to me at all
+	b. Applied to me to some degree, or some of the time
+	c. Applied to me to a considerable degree, or a good part of time
+	d. Applied to me very much, or most of the time
+37.I had a feeling of shakiness, like my legs were going to give way.
+	a. Did not apply to me at all
+	b.  Applied to me to some degree, or some of the time
+	c.  Applied to me to a considerable degree, or a good part of time
+	d.  Applied to me very much, or most of the time
+38.I found myself getting upset rather easily.
+	a.  Did not apply to me at all
+	b.  Applied to me to some degree, or some of the time
+	c.  Applied to me to a considerable degree, or a good part of time
+	d.  Applied to me very much, or most of the time
+39.I found myself getting impatient when I was delayed in any way, like by elevators, traffic lights, or people who kept me waiting.
+	a.  Did not apply to me at all
+	b.  Applied to me to some degree, or some of the time
+	c.  Applied to me to a considerable degree, or a good part of time
+	d.  Applied to me very much, or most of the time
+40.I perspired noticeably, like with sweaty palms, even when I wasn't doing anything physical.
+	a.  Did not apply to me at all
+	b.  Applied to me to some degree, or some of the time
+	c.  Applied to me to a considerable degree, or a good part of time
+	d.  Applied to me very much, or most of the time
+41.I felt scared without any good reason.
+	a.  Did not apply to me at all
+	b.  Applied to me to some degree, or some of the time
+	c.  Applied to me to a considerable degree, or a good part of time
+	d.  Applied to me very much, or most of the time
+42.I was aware of my heart rate, even when I wasn't doing anything physical.
+	a.  Did not apply to me at all
+	b.  Applied to me to some degree, or some of the time
+	c.  Applied to me to a considerable degree, or a good part of time
+	d.  Applied to me very much, or most of the time
+43.I found that I was very irritable.
+	a.  Did not apply to me at all
+	b.  Applied to me to some degree, or some of the time
+	c.  Applied to me to a considerable degree, or a good part of time
+	d.  Applied to me very much, or most of the time
+44.I felt I was close to panic.
+	a.  Did not apply to me at all
+	b.  Applied to me to some degree, or some of the time
+	c.  Applied to me to a considerable degree, or a good part of time
+	d.  Applied to me very much, or most of the time
+45.I found it hard to calm down after something upset me.
+	a.  Did not apply to me at all
+	b.  Applied to me to some degree, or some of the time
+	c.  Applied to me to a considerable degree, or a good part of time
+	d.  Applied to me very much, or most of the time
+46.I found it difficult to tolerate interruptions to what I was doing.
+	a.  Did not apply to me at all
+	b.  Applied to me to some degree, or some of the time
+	c.  Applied to me to a considerable degree, or a good part of time
+	d.  Applied to me very much, or most of the time
+47.I was in a state of nervous tension with what I was doing.
+	a.  Did not apply to me at all
+	b.  Applied to me to some degree, or some of the time
+	c.  Applied to me to a considerable degree, or a good part of time
+	d.  Applied to me very much, or most of the time
+48.I was worried about situations in which I might panic and make a fool of myself.
+	a.  Did not apply to me at all
+	b.  Applied to me to some degree, or some of the time
+	c.  Applied to me to a considerable degree, or a good part of time
+	d.  Applied to me very much, or most of the time
+49.What is your age?
+	a.  Under 18
+	b.  18 - 29
+	c.  30 - 39
+	d.  40 - 49
+	5.  50 - 59
+	6.  60 - 69
+	7.  70 or Over
+50.In terms of your gender identity, do you see yourself as:
+	a.  Female/Woman
+	b.  Male/Man
+	c.  Gender non-binary
+	d.  I prefer to self-identify
+51.How often do you meditate?
+	a.  Never
+	b.  Several times per year
+	c.  Several times per month
+	d.  Several times per week
+	5.  Daily
+52.What best describes your current employment status?
+	a.  Employed
+	b.  Self-employed
+	c.  Stay-at-home parent
+	d.  Unemployed
+	5.  Student
+	6.  Retired
+	7.  Unable to work
+53.Which category best describes your work?
+	a.  Arts / Design
+	b.  Business / Finance
+	c.  Construction / Manufacturing / Maintenance
+	d.  Education
+	5.  Health Care / Medicine
+	6.  Homemaker
+	7.  Law
+	8.  Management / Administration
+	9.  Media / Journalism
+	10.Mental Health / Social Services
+	11.Military / Law Enforcement
+	12.Nonprofit
+	13.Politics / Public Administration
+	14.Researcher / Academia
+	15.Sales / Retail
+	16.Services / Transportation
+	17.Spiritual / Religious teacher
+	18.Student
+	19.Other
+
